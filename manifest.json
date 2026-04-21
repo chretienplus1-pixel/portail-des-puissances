@@ -1,0 +1,42 @@
+{
+  "name": "Portail des Puissances",
+  "short_name": "Portail",
+  "description": "Application de prière, méditation et discipline de vie chrétienne",
+  "start_url": "/portail-des-puissances/",
+  "scope": "/portail-des-puissances/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0a0a0f",
+  "theme_color": "#c9a84c",
+  "lang": "fr",
+  "categories": ["lifestyle", "religion", "education"],
+  "icons": [
+    {
+      "src": "https://placehold.co/192x192/0a0a0f/c9a84c?text=⚜",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "https://placehold.co/512x512/0a0a0f/c9a84c?text=⚜",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "screenshots": [],
+  "shortcuts": [
+    {
+      "name": "Prière du jour",
+      "short_name": "Prière",
+      "description": "Accéder à la prière du jour",
+      "url": "/portail-des-puissances/#priere"
+    },
+    {
+      "name": "Portail Communauté",
+      "short_name": "Communauté",
+      "description": "Rejoindre la communauté de prière",
+      "url": "/portail-des-puissances/#communaute"
+    }
+  ]
+}
